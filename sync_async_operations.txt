@@ -1,0 +1,11 @@
+Synchronous Operation:
+    - step 1: ask an external source to perform a task
+    - step 2: wait till response is received from the external source
+    - step 3: process the response
+    - step 4: execute rest of the code
+
+
+Asynchronous Operation:
+    - step 1: ask an external source to perform a task
+    - step 2: start executing rest of the code
+    - step 3: process the response when received from the external source
